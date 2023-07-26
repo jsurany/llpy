@@ -1,0 +1,10 @@
+**/venv/
+
+cython/build
+cython/dist
+cython/*.egg-info
+cython/fibs.cpp
+cython/*.whl
+
+rust/target
+rust/Cargo.lock
